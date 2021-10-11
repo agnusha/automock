@@ -1,0 +1,2 @@
+# automock
+ npm package
